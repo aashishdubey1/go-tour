@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/aashishdubey1/go-tour/pointers"
+	"github.com/aashishdubey1/go-tour/structs"
 )
 
 func main() {
@@ -11,5 +11,6 @@ func main() {
 	// loops.Run()
 	// conditionals.Run()
 	// godefer.Run()
-	pointers.Run()
+	// pointers.Run()
+	structs.Run()
 }
