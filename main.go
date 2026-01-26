@@ -3,12 +3,13 @@ package main
 import (
 	"fmt"
 
-	godefer "github.com/aashishdubey1/go-tour/goDefer"
+	"github.com/aashishdubey1/go-tour/pointers"
 )
 
 func main() {
 	fmt.Println("-------Go Go Golang-------")
 	// loops.Run()
 	// conditionals.Run()
-	godefer.Run()
+	// godefer.Run()
+	pointers.Run()
 }
