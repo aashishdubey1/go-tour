@@ -3,10 +3,11 @@ package main
 import (
 	"fmt"
 
-	"github.com/aashishdubey1/go-tour/loops"
+	"github.com/aashishdubey1/go-tour/conditionals"
 )
 
 func main() {
-	fmt.Println("Working")
-	loops.Run()
+	fmt.Println("-------Go Go Golang-------")
+	// loops.Run()
+	conditionals.Run()
 }
