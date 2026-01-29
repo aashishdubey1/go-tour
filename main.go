@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/aashishdubey1/go-tour/structs"
+	arrayslices "github.com/aashishdubey1/go-tour/arraySlices"
 )
 
 func main() {
@@ -12,5 +12,6 @@ func main() {
 	// conditionals.Run()
 	// godefer.Run()
 	// pointers.Run()
-	structs.Run()
+	// structs.Run()
+	arrayslices.Run()
 }
