@@ -15,4 +15,5 @@ func main() {
 	// structs.Run()
 	// arrayslices.Run()
 	gomaps.Run()
+	// functions.Run()
 }
